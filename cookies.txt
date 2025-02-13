@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.halowin.com.ph	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6InQrQlZ3dmM1MFhBNmFtemNINHRLV0E9PSIsInZhbHVlIjoiaDIvNkhRaklzL1RlSThwMCtYVjhWczNXeFU0RFUxekFhWkZwVmNsUWFyY1poSjBTOWpOYmczZStPN2ZLL2ZDTHgzUGhjK3lOcVJrN0puZ1dldVplTXpTaTM1aG1hM05rYjlhMTU3RHlJd1cyUzc4Z1NuWnYxY2RXTXFYVWIzc3QiLCJtYWMiOiI3OGQzZjg3NTYxNWQyYjJhYTEyYjg1YjBiNDNlNWUxOGYxMWRjNGU0ODdjNWE5YWFjNjU1YTAxMzk0NDJhNTU2In0%3D
+www.halowin.com.ph	TRUE	/	FALSE	1999999999	laravel_session	xd8YYn6f9DcC6F7bQ5U1fTW6HE2cvjZ2ZnOdQUnm
+www.halowin.com.ph	TRUE	/	FALSE	1999999999	samesite	lax
+
